@@ -1,7 +1,7 @@
 # Text Analyzer
-The app finds and lists the top 10 longer letter combinations with their frequency differences.
+The program analyzes a text file, identifying letter combinations consisting of more than 3 letters. It then generates an output that includes the top 10 most common letter combinations, along with their respective frequency differences displayed as a table and a bar chart.
 
-The program analyzes a text file, identifying letter combinations consisting of more than three letters. It then generates an output that includes the top 10 most common letter combinations, along with their respective frequency differences displayed as a table and a bar chart.
+![TextAnalyzer](https://github.com/Naguales/text-analyzer/assets/12149564/278a6012-85bc-46e1-8451-046b0a16f7de)
 
 # Example
 
