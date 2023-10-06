@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/Resources">
+        <file alias="Histogram">Histogram.png</file>
+		<file alias="Success">Success.png</file>
+		<file alias="Warning">Warning.png</file>
+		<file alias="Throbber">Throbber.gif</file>
+    </qresource>
+</RCC>
