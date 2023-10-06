@@ -3,7 +3,7 @@ The app finds and lists the top 10 longer letter combinations with their frequen
 
 The program analyzes a text file, identifying letter combinations consisting of more than three letters. It then generates an output that includes the top 10 most common letter combinations, along with their respective frequency differences displayed as a table and a bar chart.
 
-# Example:
+# Example
 
 Given the content of the input file:
 ```sh
